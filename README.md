@@ -1,11 +1,11 @@
 # WK.com
 
-![Wk Logo](https://raw.githubusercontent.com/AerellSmk/Wk.com/main/public/assets/Logo.png)
+![Wk Logo](https://raw.githubusercontent.com/Fern-Aerell/Wk.com/main/public/assets/Logo.png)
 
-Ini adalah website untuk survey meme yang ada di internet, untuk mengetahui mana meme di internet yang paling banyak orang sukai.
+This is a website for surveying memes on the internet to find out which memes are the most popular among people.
 
 ## Demo
-- [Wk.com](https://aerellsmk.github.io/project/wk/index.html)
+- [Wk.com](https://fern-aerell.github.io/projects/wk/index.html)
 
 ## Design
-- Untuk design kalian bisa melihat nya di [Figma](https://www.figma.com/community/file/1291598186793606209)
+- You can view the design on [Figma](https://www.figma.com/community/file/1291598186793606209)
